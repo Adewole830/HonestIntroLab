@@ -1,0 +1,38 @@
+.adContainer{
+    border:solid orange;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+#top{
+    border-radius: ;
+}
+
+.leftArrow{
+    /* border: solid red; */
+}
+.adTxt{
+    /* border: solid blue; */
+}
+.adLink{
+    /* border: solid green; */
+    height: 30px;
+}
+
+.rightArrow{
+    border: solid red;
+}
+
+.box{
+    border: solid peru;
+    height: 90px;
+    width: 90px;
+    padding: 100px;
+
+}
+
+.navbar{
+    border: solid blue;
+    display: flex;
+}
